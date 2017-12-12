@@ -193,7 +193,8 @@ Open `settings.json`
 
 > Mac: <kbd>cmd+,</kbd>
 
-<kbd>ctrl+F1<kbd>
+<kbd>ctrl+F1</kbd>
+<kbd>ctrl+up</kbd>
 一般
 *斜體*
 **粗體**
